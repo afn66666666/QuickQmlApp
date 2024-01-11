@@ -1,0 +1,18 @@
+**/Debug/
+**/Debug_Win32/
+**/Debug_x64/
+**/Owner Debug/
+**/Release/
+**/Release_Win32/
+**/Release_x64/
+**/Owner Release/
+**/GeneratedFiles/
+**/db/
+**/Win32/
+**/x64/
+**/temp/
+**/temp_x64/
+**/bin/
+**/bin_x64/
+**/test_x64/
+**/.vs/
